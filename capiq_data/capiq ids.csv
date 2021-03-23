@@ -81,6 +81,7 @@ IQ256839,Brown-Forman Corporation
 IQ368470,"C.H. Robinson Worldwide, Inc."
 IQ386024,Cognizant Technology Solutions Corporation
 IQ25941,"Cadence Design Systems, Inc."
+IQ3133890,"Caesars Entertainment, Inc."
 IQ258458,Campbell Soup Company
 IQ59490028,Coffee
 IQ172207,"Cardinal Health, Inc."
@@ -135,7 +136,7 @@ IQ107405,"D.R. Horton, Inc."
 IQ265621,Danaher Corporation
 IQ336160,"Darden Restaurants, Inc."
 IQ35644,DaVita Inc.
-IQ266017,Dell Technologies Inc.
+IQ266112,Deere & Company
 IQ266311,"Delta Air Lines, Inc."
 IQ27504,DENTSPLY SIRONA Inc.
 IQ266510,Devon Energy Corporation
@@ -194,7 +195,6 @@ IQ272383,First Republic Bank
 IQ128209,"Fiserv, Inc."
 IQ28756,"FLEETCOR Technologies, Inc."
 IQ327408,"FLIR Systems, Inc."
-IQ267555,Flowserve Corporation
 IQ28606,FMC Corporation
 IQ106335,Ford Motor Company
 IQ2689126,"Fortinet, Inc."
@@ -207,6 +207,7 @@ IQ273607,Freeport-McMoRan Inc.
 IQ274265,"The Gap, Inc."
 IQ598655,Garmin Ltd.
 IQ130705,"Gartner, Inc."
+IQ78749412,Generac Holdings Inc.
 IQ274561,General Dynamics Corporation
 IQ177031,General Electric Company
 IQ274715,"General Mills, Inc."
@@ -348,6 +349,7 @@ IQ413857,"NRG Energy, Inc."
 IQ184945,Nucor Corporation
 IQ32307,NVIDIA Corporation
 IQ182505,"NVR, Inc."
+IQ934467,NXP Semiconductors N.V.
 IQ324289,"O'Reilly Automotive, Inc."
 IQ293286,Occidental Petroleum Corporation
 IQ319404,"Old Dominion Freight Line, Inc."
@@ -361,6 +363,7 @@ IQ295170,Parker-Hannifin Corporation
 IQ295368,"Paychex, Inc."
 IQ254225545,"Paycom Software, Inc."
 IQ112732,"PayPal Holdings, Inc."
+IQ335919,"Penn National Gaming, Inc."
 IQ295688,Pentair plc
 IQ295774,"People's United Financial, Inc."
 IQ32854,"PepsiCo, Inc."
@@ -414,7 +417,6 @@ IQ22967487,"ServiceNow, Inc."
 IQ303104,The Sherwin-Williams Company
 IQ34378,"Simon Property Group, Inc."
 IQ1462309,"Skyworks Solutions, Inc."
-IQ364744,SL Green Realty Corp.
 IQ224055283,Snap Inc.
 IQ59493029,Soybean
 IQ31726,Southwest Airlines Co.
@@ -426,5 +428,3 @@ IQ94614,Stryker Corporation
 IQ187662,SVB Financial Group
 IQ260334235,Synchrony Financial
 IQ35028,"Synopsys, Inc."
-IQ189096,Sysco Corporation
-IQ93339,"T-Mobile US, Inc."
